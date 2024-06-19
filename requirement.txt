@@ -1,6 +1,8 @@
- pandas 2.2.2
- plotly_express 0.4.1
- streamlit 1.35.0
- altair 5.3.0
- ipykernell 6.29.4
+ # Librerias que el proyecto requiere
+ pandas
+ plotly_express
+ streamlit 
+ 
+ # Librerias necesarias instaladas en el camino
+ ipykernell
  nbformat
