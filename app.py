@@ -6,6 +6,10 @@ import streamlit as st
 # Leer los datos
 car_data = pd.read_csv('/Users/margarita/Repositorios/TT_sprint5/vehicles_us.csv')  
 
+# Añadir un encabezado a la app
+st.title('Aplicación de Visualización de Datos de Vehículos')
+st.header('Análisis Interactivo de Anuncios de Venta de Coches en EE. UU. by Margarita Treyes')
+
 # Casilla de Verificacion/ reemplaza Botón para construir histograma
 hist_button = st.checkbox('Construir histograma')
 if hist_button:
