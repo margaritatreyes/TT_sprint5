@@ -1,3 +1,4 @@
- pandas
- plotly_express
- streamlit
+ pandas 2.2.2
+ plotly_express 0.4.1
+ streamlit 1.35.0
+ altair 5.3.0
