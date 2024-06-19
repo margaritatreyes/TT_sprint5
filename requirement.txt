@@ -1,8 +1,4 @@
- # Librerias que el proyecto requiere
- pandas
- plotly_express
- streamlit 
- 
- # Librerias necesarias instaladas en el camino
- ipykernell
- nbformat
+pandas
+nbformat
+plotly_express
+streamlit 
