@@ -14,9 +14,8 @@ Este proyecto utiliza `Streamlit` y `Plotly Express` para crear una aplicación 
 - Streamlit
 - Nbformat
 
-### Uso
-1. Ejecuta la aplicación Streamlit: bash - streamlit run app.py
-2. Abre tu navegador web y navega a `http://localhost:8501` para ver la aplicación.
+### Link en RENDER
+1. https://tt-sprint5.onrender.com/
 
 ### Estructura del Proyecto
 ```plaintext
@@ -25,7 +24,7 @@ Este proyecto utiliza `Streamlit` y `Plotly Express` para crear una aplicación 
 └── .streamlit            # Carpeta que contiene la configuracion para correr el proyecto en Render
     └── config.toml
 ├── git.ignore            # Archivo que incluye elementos para ignorar
-├──  README.md            # Este archivo README
+├── README.md             # Este archivo README
 ├── app.py                # Archivo principal de la aplicación Streamlit
 ├── requirements.txt      # Lista de dependencias del proyecto
 ├── vehicles_us.csv       # Conjunto de datos de anuncios de venta de coches
